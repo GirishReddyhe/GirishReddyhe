@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GirishReddyhe
-- 👀 I’m DevOps Engineer and Coach...
+- 👀 I’m Data Engineer and Coach...
 - 🌱 I’m currently teaching all the fresher and experienced Engineers.
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me ... girishreddytruely123@gmail.com
